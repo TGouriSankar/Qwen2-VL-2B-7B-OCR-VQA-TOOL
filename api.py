@@ -1,7 +1,7 @@
 import requests
 
 API_URL = "https://api-inference.huggingface.co/models/Qwen/Qwen2-VL-7B-Instruct"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer <hugging-face token>"}
 
 def query(filename):
     with open(filename, "rb") as f:

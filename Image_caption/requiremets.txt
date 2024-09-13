@@ -1,0 +1,4 @@
+torch ==  2.4.0
+pandas == 2.2.2
+transformers == 4.43.3
+flash_attn timm einops == 2.6.3

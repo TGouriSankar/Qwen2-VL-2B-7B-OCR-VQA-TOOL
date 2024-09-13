@@ -1,3 +1,4 @@
+# using the model with api and hugging face token
 import requests
 
 API_URL = "https://api-inference.huggingface.co/models/Qwen/Qwen2-VL-7B-Instruct"

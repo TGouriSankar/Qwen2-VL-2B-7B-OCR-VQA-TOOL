@@ -1,4 +1,5 @@
-In Hugging Face, a Tokenizer is used to preprocess text data into tokens suitable for Natural Language Processing (NLP) tasks, such as training neural networks or applying pre-trained models. Here's an overview of different types of tokenizers available in Hugging Face:
+# In Hugging Face
+**Tokenizer** is used to preprocess text data into tokens suitable for Natural Language Processing (NLP) tasks, such as training neural networks or applying pre-trained models. Here's an overview of different types of tokenizers available in Hugging Face:
 Types of Tokenizers:
 
 -  **PreTrainedTokenizer:**
